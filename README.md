@@ -1,9 +1,7 @@
-# FlyingEtiquette
-Data Analysis of Flying Etiquette Survey
+# First Class or Economy, Most Flyers Agree: Go Ahead and Recline your Seat
+By: Ruby Alvarez
 
 # Introduction
-
-# Sourcing
 Data was sourced from FiveThirtyEight's GitHub archive. It was generated from a self-reported survey of 1040 people. People were allowed to abstain from answering any question, leaving blanks in the data. 
 
 # Data Analysis
