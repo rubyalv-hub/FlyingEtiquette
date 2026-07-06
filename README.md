@@ -27,7 +27,8 @@ What additional data might be needed to make the analysis stronger?
 
 ![A horizontal 100% stacked bar chart titled "Does your income make you pickier on airplanes?" showing how different household income brackets view reclining plane seats, based on FiveThirtyEight data. The five income brackets range from $0 - $24,999 to $150,000+. Their responses were pretty evenly split, with the majority of people saying it's "not rude at all" across all brackets.](income.png)
 
-2. ![A vertical bar chart with income brackets across the x-axis ranging from $0 to S150,000+.](gettingup.png)
+2. Title
+   ![A vertical bar chart with income brackets across the x-axis ranging from $0 to S150,000+.](gettingup.png)
 
 # Conclusion
 ## What privacy or ethical concerns might arise from this data
