@@ -1,5 +1,8 @@
 # First Class or Economy, Most Flyers Agree: Go Ahead and Recline Your Seat
-By: Ruby Alvarez
+By: Ruby Alvarez Rubio
+
+Data Source: https://github.com/fivethirtyeight/data/blob/master/flying-etiquette-survey/flying-etiquette.csv
+Link to Google Sheets: https://docs.google.com/spreadsheets/d/1MMAG2MAbCyldcJ4mq3y15ygehAXVa9aEmqSNsOQFcz8/edit?gid=1129994050#gid=1129994050
 
 # Introduction
 Data was sourced from FiveThirtyEight's GitHub archive. A site previously well-known for using statistical models and polling averages on a wide variety of topics, such as elections, sports, science, economics, and more! This data was generated from a self-reported survey of 1040 people. People were allowed to abstain from answering any question, leaving blanks in the data. 
@@ -36,5 +39,3 @@ There could be issues of generalization. Since the data is purely categorical, i
 ## What voices or sources would need to be included beyond the data
 There should be smaller increments of earnings, which would increase our understanding of the hypothesis we made. 
 There should be an indication of what flight class each person primarily flies in. There could be a difference in a person's idea of whether it is rude to recline your seat in an airplane, between someone who is flying in first class and someone who is in the general admission seats, regarding leg space. There should be a part of the data set that gives space for the participant to give the analyst an understanding of what their personal space values are like. This would make the data have more value because we can analyze human psychology more than a blanket statement. 
-
-Data Source: https://github.com/fivethirtyeight/data/blob/master/flying-etiquette-survey/flying-etiquette.csv
