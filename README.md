@@ -8,26 +8,28 @@ Data was sourced from FiveThirtyEight's GitHub archive. It was generated from a 
 
 # Data Analysis
 
-Explain how the data could be cleaned, explored, and analyzed.
-
-Consider the following questions:
-
-What steps were taken, or would need to be taken, to clean the data?
-What are the key columns, variables, or categories in the dataset?
-What interesting patterns might be found by sorting, filtering, grouping, or comparing the data?
-What questions could the data help answer?
-If you made a pivot table or summary table, what did it show?
-What additional data might be needed to make the analysis stronger?
-
 ## Cleaning the Data
-Many column names had minor typos, which were adjusted. One of the income values was also 
+Many column names had minor typos, which were adjusted. One of the income values. 150000 needed formatting adjustments as well. When analyzing the data via various pivot tables, most variables had to be filtered to exclude blank responses. Key categories in the data included income, gender, age, height, and various queries about what they think is considered rude on an airplane. 
 
 ## Interesting Patterns
-One interesting pattern found was that across all income brackets, most people do not mind others reclining their seats on airplanes.
-  
+1. One interesting pattern is that across all income brackets, most people do not mind others reclining their seats on airplanes
+2. A second intriguing pattern is
+
+## Questions to answer
+What questions could the data help answer?
+What interesting patterns might be found by sorting, filtering, grouping, or comparing the data?
+
+Through filtering, grouping, and comparison, this dataset could be used to reveal what kinds of people
+
+## Strengthening the Analysis
+What additional data might be needed to make the analysis stronger?
+
 # Data Visualization
+1. A horizontal stacked bar chart was chosen to display how people across different income levels feel about reclining one's seat on a plane. The chart effectively shows that, despite income, most people feel reclining on a plane isn't rude at all. 
+
 ![A horizontal 100% stacked bar chart titled "Does your income make you pickier on airplanes?" showing how different household income brackets view reclining plane seats, based on FiveThirtyEight data. The five income brackets range from $0 - $24,999" to $150,000+. Their responses were pretty evenly split, with the majority of people saying it's "not rude at all" across all brackets.](income.png)
 
+2. 
   
 # Conclusion
 
